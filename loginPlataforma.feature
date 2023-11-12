@@ -21,5 +21,3 @@
             Exemplos:
             | usuario               | senha       |
             | "joao@ebac.com.br"    | "teste@123" |
-            | "cleber@ebac.com.br"  | "teste@123" |
-            | "roberto@ebac.com.br" | "teste@123" |
