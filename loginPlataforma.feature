@@ -16,8 +16,8 @@
             Cenário: Autenticação inválida
             Quando eu digitar o usuário <usuario>
             E a senha <senha>
-            Então devo ser direcionado para a tela de checkout
+            Então devo ver uma <mensagem>
 
             Exemplos:
-            | usuario               | senha       |
-            | "joao@ebac.com.br"    | "teste@123" |
+            | usuario               | senha       | mensagem
+            | "joao@ebac.com.br"    | "teste@123" | "Senha ou usuário incorretos, por favor, tente novamente"
